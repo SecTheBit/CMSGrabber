@@ -12,6 +12,7 @@ The tool can detect only those CMS that can be detected by the ![Wappalyzer](htt
 ## Usage
 
 It is highly recommended to install ![python-wappalyzer](https://github.com/chorsley/python-Wappalyzer) module  **from their Github Repo not by using Pip** 
+It is also recommended to pass the live urls to the tool , to get the best result. For getting live urls ![httpx](https://github.com/projectdiscovery/httpx) would be a great idea
 
 1. Clone the Repo 
     ``` git clone https://github.com/SecTheBit/CMSGrabber.git ```
